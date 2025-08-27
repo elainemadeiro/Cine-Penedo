@@ -24,12 +24,11 @@ CinePenedo/ (Raiz do projeto)
 1. Pasta public       
     2. Arquivo index.html (HTML principal)│
 3. Pasta src/               
-    3. Arquivo index.js (Ponto de entrada do React)
-    4. Arquivo App.js (Componente principal/ alterações)
-    5. Sub-pasta components
-        6. Arquivo Menu.js (Componente da programação)
-        7. Arquivo Sessao.js (Componente de sessão)
-        8. Arquivo Reservas.js (Componente de reservas)
-    8. Arquivo style.css (Estilos)
-│
-└──9. Arquivo README.md (resumo do projeto)
+    4. Arquivo index.js (Ponto de entrada do React)
+    5. Arquivo App.js (Componente principal/ alterações)
+    6. Sub-pasta components
+        7. Arquivo Menu.js (Componente da programação)
+        8. Arquivo Sessao.js (Componente de sessão)
+        9. Arquivo Reservas.js (Componente de reservas)
+    10. Arquivo style.css (Estilos)
+
